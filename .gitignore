@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# DigitalOcean Interface (local tools)
+lib/
+index.js
+test-auth.js
+check-exports.js
+.env
+.env.example
